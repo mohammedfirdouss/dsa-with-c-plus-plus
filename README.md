@@ -1,2 +1,2 @@
 # dsa-with-c-plus-plus
-DSA in C++
+Currently taking a course on DSA in C++. Will update this project regularly.
